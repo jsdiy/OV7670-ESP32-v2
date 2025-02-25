@@ -30,4 +30,4 @@ libフォルダに下記のように配置してください。使い方はサ�
 	`Wire.requestFrom(OV7670_ADDR, 1, true);` を、  
 	`Wire.requestFrom(OV7670_ADDR, 1, 1);` とする。
   - 曖昧なオーバーロードを解消するため。
-- ほか、必要であれば全ての`Serial.printf()`をコメントアウト。
+- 必要であれば全ての`Serial.print()`類をコメントアウト。
