@@ -1,5 +1,5 @@
 //『昼夜逆転』工作室	http://jsdiy.starfree.jp
-//jsdiy	https://github.com/jsdiy/
+//https://github.com/jsdiy/
 
 #include <Arduino.h>
 #include "OV7670v2.hpp"
