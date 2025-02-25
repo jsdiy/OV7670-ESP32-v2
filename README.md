@@ -1,5 +1,5 @@
 # OV7670-ESP32-v2
-PlatformIO＋ESP32＋ArduinoFrameworkでOV7670(non-FIFO)を動かすライブラリ、の補足
+PlatformIO＋ESP32＋ArduinoFrameworkでOV7670(non-FIFO)を動かすライブラリ、の補完
 # 概要
 [kobatanさんのOV7670-ESP32プロジェクト](https://github.com/kobatan/OV7670-ESP32)について、
 OV7670::init()の不具合を修正するため、派生クラスOV7670v2を作成しました。  
